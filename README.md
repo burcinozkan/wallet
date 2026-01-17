@@ -2,6 +2,8 @@
 
 A simple Spring Boot REST API for money transfers between users.
 
+# API Overview
+![Swagger UI Preview](images/swagger.png)
 ##  Features
 * **User Management:** Create and list users.
 * **Transfer:** Send money between accounts.
